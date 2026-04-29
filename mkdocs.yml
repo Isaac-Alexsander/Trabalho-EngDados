@@ -1,0 +1,16 @@
+site_name: Engenharia de Dados - Tabelas Transacionais
+nav:
+  - Home: index.md
+  - Sessão Spark: sparksession.md
+  - Delta Lake (CRUD): delta_crud.md
+  - Apache Iceberg: iceberg.md
+theme:
+  name: material
+  palette:
+    scheme: slate # Tema escuro, fica bem profissional
+    primary: indigo
+
+plugins:
+  - search
+
+  
